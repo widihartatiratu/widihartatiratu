@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @widihartatiratu
-- 👀 I’m interested in Business Intelligence and Dataa Analyst
+- 👀 I’m interested in Business Intelligence and Data Analyst
 - 🌱 I’m currently learning SQL, Phyton, Machine Learning
 - 💞️ I’m looking an internship
 - 📫 widihartatir@gmail.com
